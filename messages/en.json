@@ -1,0 +1,54 @@
+{
+  "Common": {
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "Landing": {
+    "title": "Welcome to your NextJS Application!",
+    "nextJsDocumentation": "Next JS Documentation",
+    "nextJsDocumentationDescription": "Understand all of the features NextJS provides to enhance your React application and development experience.",
+    "muiDocumentation": "MUI Documentation",
+    "muiDocumentationDescription": "Take a look at all of the components at your disposal, how to customize your theme, or the APIs you can use within each component.",
+    "muiTheming": "MUI Theming",
+    "muiDescription": "See how easy it is to customize your website's look and feel using the MUI component library.",
+    "appIgnitionDocumentation": "AppIgnition Documentation",
+    "appIgnitionDocumentationDescription": "Read through the several utilities that have been added to this application that aim to improve your productivity."
+  },
+  "Forms": {
+    "email": "Email Address",
+    "password": "Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "Errors": {
+    "pageNotFound": "Page Not Found"
+  },
+  "Login": {
+    "rememberMe": "Remember me",
+    "cta": "Login",
+    "forgotPassword": "Forgot Password"
+  },
+  "Register": {
+    "name": "Name",
+    "cta": "Register"
+  },
+  "VerifyEmail": {
+    "heading": "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.",
+    "resendSuccess": "A new verification link has been sent to the email address you provided during registration.",
+    "cta": "Resend Verification Email"
+  },
+  "Dashboard": {
+    "heading": "You are now logged in!",
+    "subtext": "Congratulations! You're ready to get started building your next great idea! May these tools serve you well. Go forth and conquer!"
+  },
+  "ForgotPassword": {
+    "heading": "Forgot Password",
+    "success": "An email has been sent to the given address with instructions to reset your password.",
+    "cta": "Send Password Reset"
+  },
+  "ResetPassword": {
+    "heading": "Reset Password",
+    "cta": "Reset Password"
+  }
+}
